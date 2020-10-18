@@ -1,0 +1,10 @@
+E:\C#\file hider\file hider\bin\Debug\file hider.exe.config
+E:\C#\file hider\file hider\bin\Debug\file hider.exe
+E:\C#\file hider\file hider\bin\Debug\file hider.pdb
+E:\C#\file hider\file hider\obj\Debug\file hider.csprojAssemblyReference.cache
+E:\C#\file hider\file hider\obj\Debug\file_hider.Form1.resources
+E:\C#\file hider\file hider\obj\Debug\file_hider.Properties.Resources.resources
+E:\C#\file hider\file hider\obj\Debug\file hider.csproj.GenerateResource.cache
+E:\C#\file hider\file hider\obj\Debug\file hider.csproj.CoreCompileInputs.cache
+E:\C#\file hider\file hider\obj\Debug\file hider.exe
+E:\C#\file hider\file hider\obj\Debug\file hider.pdb
